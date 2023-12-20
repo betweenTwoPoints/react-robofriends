@@ -6,4 +6,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-An web application made with React. It is a list of robots which can be filtered. Data is fetch from https://jsonplaceholder.typicode.com/
+A web application made with React. It is a list of robots which can be filtered. Data is fetched from https://jsonplaceholder.typicode.com/
